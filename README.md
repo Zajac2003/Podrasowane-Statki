@@ -1,7 +1,7 @@
 (Najlepiej spojrzeć do dokumentacja.pdf)
 
 Oryginalna gra w statki, rozszerzona o bajery nadające dynamikę rozgrywce.
-(Wystarczy pobrać i odpalić plik .exe)
+(Wystarczy pobrać i odpalić plik untitled.exe)
 (serio warto, fajnie się gra!)
 
 Screeny:
